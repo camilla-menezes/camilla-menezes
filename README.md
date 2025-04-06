@@ -9,18 +9,17 @@ My name is Camilla Menezes, and I'm a bilingual Data Analyst student from Brazil
 - 💻 Developing dashboards for portfolio and data visualization using Power BI and SQL.
 - 📚 I'm interested in providing insights based on data.
 - 🎯 Goals: Work in a Data Analytics Team.
+<br>
 
 ### Main tools:
-
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/camilla-menezes/Portfolio/blob/main/linguagens/python.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/camilla-menezes/Portfolio/blob/main/linguagens/sql.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/camilla-menezes/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
-
+<br>
 
 ### Get in Touch:
-
 I'm always open to new opportunities, collaborations and discussions. If you want to connect, feel free to reach 🚀
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/camilla-menezes-camillamenezes/"> 
