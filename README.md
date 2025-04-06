@@ -11,6 +11,7 @@ My name is Camilla Menezes, and I'm a bilingual Data Analyst student from Brazil
 - 🎯 Goals: Work in a Data Analytics Team.
 <br>
 
+
 ### Main tools:
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/camilla-menezes/Portfolio/blob/main/linguagens/python.png?raw=true">
@@ -18,6 +19,7 @@ My name is Camilla Menezes, and I'm a bilingual Data Analyst student from Brazil
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/camilla-menezes/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
 <br>
+
 
 ### Get in Touch:
 I'm always open to new opportunities, collaborations and discussions. If you want to connect, feel free to reach 🚀
