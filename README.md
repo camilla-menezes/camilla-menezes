@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-My name is Camilla Menezes, and I'm a bilingual Data Analyst student from Brazil.
+My name is Camilla Menezes, and I'm a bilingual Data Analyst from Brazil.
 
 
 ### About me:
