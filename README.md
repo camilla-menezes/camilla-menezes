@@ -36,19 +36,17 @@ I'm always open to new opportunities, collaborations and discussions. If you wan
 
 ## Portfólio e Principais Projetos
 ### Contoso Sales Dashboard
-
 <a href="https://github.com/camilla-menezes/ContosoPortifolio/tree/main">
   <img align="left" width="500" src="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-29%20170602.png?raw=true">
 </a>
-
-<br>
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
 - Medir a performance comparando períodos de tempo (YoY).
 <br>
-
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODFiNDgxNzctNjc5OS00ODE3LWJlYWEtZmY0NzBmZGNhZTc1IiwidCI6ImI0MzZkMjBiLWY1ODktNDlmNi1hNGI1LTg3ZmZjOWYzZjJiMCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
 <a href="https://github.com/camilla-menezes/ContosoPortifolio">Clique aqui</a> e acesse o repositório no Github.
 
 
