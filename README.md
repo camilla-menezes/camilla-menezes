@@ -39,16 +39,31 @@ I'm always open to new opportunities, collaborations and discussions. If you wan
 <a href="https://github.com/camilla-menezes/ContosoPortifolio/tree/main">
   <img align="left" width="500" src="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-29%20170602.png?raw=true">
 </a>
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
+<br>
 Principais problemas relatados pelo requisitante: <br>
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
-- Medir a performance comparando períodos de tempo (YoY).
+- Medir a performance comparando períodos de tempo (YoY).<br>
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiODFiNDgxNzctNjc5OS00ODE3LWJlYWEtZmY0NzBmZGNhZTc1IiwidCI6ImI0MzZkMjBiLWY1ODktNDlmNi1hNGI1LTg3ZmZjOWYzZjJiMCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a target="_blank" href="https://github.com/camilla-menezes/ContosoPortifolio">Clique aqui</a> e acesse o repositório no Github.
 
+<br><br>
+
+### Análise de Clientes AdventureWorks
+<img align="right" width="500" src="https://github.com/camilla-menezes/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-05-01%20101201.png?raw=true">
+Projeto desenvolvido para análise e entendimento dos clientes da empresa AdventureWorks, utlizando linguagem SQL para consulta ao banco de dados.<br>
+<br>
+Principais desafios: <br>
+- Desenvolver consultas utilizando linguagem SQL.<br>
+- Estatística descritiva com as principais características dos clientes da base de dados AdventureWorks.<br>
+- Medir a performance e variação de novos clientes ao longo do tempo, identificando as principais fontes de crescimento da base de clientes.<br>
+<br>
+<a href="https://github.com/camilla-menezes/AdventureWorksPortfolio/tree/main">Clique aqui</a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzBlZDM3M2ItNWJkMy00N2U4LWEwYzEtMWE3NzRkYTI1OGE4IiwidCI6ImI0MzZkMjBiLWY1ODktNDlmNi1hNGI1LTg3ZmZjOWYzZjJiMCJ9">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 
 
 
