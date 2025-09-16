@@ -6,7 +6,7 @@
 ### About me:
 
 - 🔭 Currently in the process of switching careers to become a data analyst.
-- 💻 Developing dashboards for portfolio and data visualization using Power BI and SQL.
+- 💻 Developing dashboards for portfolio and data visualization using Power BI, SQL and Python.
 - 📚 I'm interested in providing insights based on data.
 - 🎯 Goals: Work in a Data Analytics Team.
 ## 
